@@ -1,14 +1,14 @@
 var text = [
     {
     name:'first',
-    description:'[Mantas, Gediminas, Laura,]',
+    description:'Labas rytas labas vakaras laba diena',
     },
     {
     name:'Second',
-    description:'[Mantas, Gediminas, Laura,]',
+    description:'Labas rytas labas vakaras laba diena',
     },
     {
     name:'Third',
-    description:'[Mantas, Gediminas, Laura,]',
+    description:'Labas rytas labas vakaras laba diena labanaktis',
     }
 ];

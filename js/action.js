@@ -1,1 +1,1 @@
-document.getElementById('block').innerHTML= generateText( text );
+document.getElementById( 'block').innerHTML = generateText (text);
