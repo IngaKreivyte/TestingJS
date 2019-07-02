@@ -1,0 +1,1 @@
+document.getElementById('block').innerHTML= generateText( text );
